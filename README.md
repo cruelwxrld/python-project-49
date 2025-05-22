@@ -12,6 +12,10 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=cruelwxrld_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=cruelwxrld_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=cruelwxrld_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=cruelwxrld_python-project-49)
 
-## Brain-even:
+## BRAIN-EVEN:
 
 [![asciicast](https://asciinema.org/a/bgHH61dwyQ2iUpack4tiG32sf.svg)](https://asciinema.org/a/bgHH61dwyQ2iUpack4tiG32sf)
+
+## BRAIN-CALC:
+
+[![asciicast](https://asciinema.org/a/JtvtVGwtmC3hL3fevTdmAi6jM.svg)](https://asciinema.org/a/JtvtVGwtmC3hL3fevTdmAi6jM)
