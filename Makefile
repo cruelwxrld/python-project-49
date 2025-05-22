@@ -13,6 +13,9 @@ brain-games:
 brain-even:
 	uv run brain-even
 
+brain-gcd:
+	uv run brain-gcd
+
 brain-calc:
 	uv run brain-calc
 
