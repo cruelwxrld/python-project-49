@@ -23,3 +23,7 @@
 ## BRAIN-GCD:
 
 [![asciicast](https://asciinema.org/a/E3aaVtnAa5Ou1criOJqqAhLKc.svg)](https://asciinema.org/a/E3aaVtnAa5Ou1criOJqqAhLKc)
+
+## BRAIN-PROGRESSION:
+
+[![asciicast](https://asciinema.org/a/BbLBW4RN64zRYXm9AUL8SuhDu.svg)](https://asciinema.org/a/BbLBW4RN64zRYXm9AUL8SuhDu)
