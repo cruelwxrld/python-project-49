@@ -31,6 +31,9 @@ def engine(name, type_of_game):
         case "brain-gcd":
             from brain_games import properties_gcd
             properties = properties_gcd
+        case "brain-progression":
+            from brain_games import properties_progression
+            properties = properties_progression
 
     def wrapped(attempt=3):
         if attempt == 0:
