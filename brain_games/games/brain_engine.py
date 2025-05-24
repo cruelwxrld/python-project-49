@@ -1,8 +1,5 @@
-
-from brain_games import say_answer
-
-
 def run_game(question, check, attempt, name):
+    from brain_games import say_answer
     print(f"Question: {question}")
     answer = say_answer()
 
