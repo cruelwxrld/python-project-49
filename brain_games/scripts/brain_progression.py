@@ -13,7 +13,7 @@ def properties():
 def main():
     from brain_games import brain_main, engine
     name = brain_main()
-    print("Find the greatest common divisor of given numbers.")
+    print("What number is missing in the progression?")
     engine(name, "brain-progression")
 
 
