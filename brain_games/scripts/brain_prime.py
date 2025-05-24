@@ -16,8 +16,9 @@ def properties():
 
 
 def main():
-    from brain_games import brain_main, engine
-    name = brain_main()
+    from brain_games import brain_main, engine, get_name
+    name = get_name()
+    brain_main(name)
     print("Answer \"yes\" if given number is prime. Otherwise answer \"no\".")
     engine(name, "brain-prime")
 
