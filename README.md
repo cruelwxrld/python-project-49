@@ -31,5 +31,3 @@
 ## BRAIN-PRIME:
 
 [![asciicast](https://asciinema.org/a/rqh0IG6cOOrzksRi5ZKkS8YnH.svg)](https://asciinema.org/a/rqh0IG6cOOrzksRi5ZKkS8YnH)
-
-🥇
