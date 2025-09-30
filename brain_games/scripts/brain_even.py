@@ -12,7 +12,7 @@ def main():
     print('Welcome to the Brain Games!')
     name = get_name()
     print(f'Hello, {name}!')
-    print("Answer \"yes\" if the number is even, otherwise answer \"no\"")
+    print("Answer \"yes\" if the number is even, otherwise answer \"no\".")
     engine(name, "brain-even")
 
 
