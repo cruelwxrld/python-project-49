@@ -19,6 +19,7 @@ def main():
     from brain_games import brain_main, engine, get_name
     print('Welcome to the Brain Games!')
     name = get_name()
+    print(f'Hello, {name}!')
     print("What is the result of the expression?")
     engine(name, "brain-calc")
 
