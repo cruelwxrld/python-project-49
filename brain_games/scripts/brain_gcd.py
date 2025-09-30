@@ -14,6 +14,7 @@ def main():
     from brain_games import brain_main, engine, get_name
     print('Welcome to the Brain Games!')
     name = get_name()
+    print(f'Hello, {name}!')
     print("Find the greatest common divisor of given numbers.")
     engine(name, "brain-gcd")
 
