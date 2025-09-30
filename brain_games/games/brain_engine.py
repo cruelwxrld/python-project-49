@@ -13,7 +13,7 @@ def run_game(question, check, attempt, name):
         return attempt - 1
     else:
         print(f"'{answer}' is wrong answer ;(. Correct answer was '{check}'")
-        print(f"Let's try again, {name}")
+        print(f"Let's try again, {name}!")
         return -1
 
 
