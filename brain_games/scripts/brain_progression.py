@@ -12,8 +12,8 @@ def properties():
 
 def main():
     from brain_games import brain_main, engine, get_name
+    print('Welcome to the Brain Games!')
     name = get_name()
-    brain_main(name)
     print("What number is missing in the progression?")
     engine(name, "brain-progression")
 
