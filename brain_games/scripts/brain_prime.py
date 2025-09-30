@@ -16,7 +16,7 @@ def properties():
 
 
 def main():
-    from brain_games import brain_main, engine, get_name
+    from brain_games import engine, get_name
     print('Welcome to the Brain Games!')
     name = get_name()
     print(f'Hello, {name}!')
